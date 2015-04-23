@@ -10,6 +10,10 @@
 - [ITmediaニュース Onion Omega](http://www.itmedia.co.jp/news/articles/1504/07/news116.html)
 
 
+# 昨年度の作品
+- [Unity Chan Sumou Milkcocoa](http://edu.amdv.net/dat14/sumou/)
+
+
 # リンク
 - [Visual C#テキスト](https://github.com/tanakaedu/cs-edu)
 - [ドットインストール](http://dotinstall.com/)
