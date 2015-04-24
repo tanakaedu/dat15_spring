@@ -3,7 +3,7 @@
 
 # 講義ページ
 - [講義wiki](https://github.com/tanakaedu/dat15_spring/wiki)
-- Visual C# 教科書
+- [Visual C# 教科書](https://github.com/tanakaedu/cs-edu)
 
 
 # 動向
