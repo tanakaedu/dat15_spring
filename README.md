@@ -2,7 +2,7 @@
 専門学校デジタルアーツ東京2015年度　春学期情報
 
 # 講義ページ
-- 講義wiki
+- [講義wiki](https://github.com/tanakaedu/dat15_spring/wiki)
 - Visual C# 教科書
 
 
