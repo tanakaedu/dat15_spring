@@ -28,6 +28,10 @@
         - [設定]>[画質]>1080pxを選択
         - [設定]の右にある[シアターモード]ボタンを押す
 - [VisualStudio2013 Community 日本語化](http://sh-yoshida.hatenablog.com/entry/2014/11/19/001844)
+- 素材
+    - [ZENRIN 秋葉原、大阪の3D年モデル](http://www.zenrin.co.jp/product/service/3d/asset/)
+    - [スクウェア・エニックス VW式アニエス・オブリージュMMDモデルデータ](http://www.jp.square-enix.com/second/mmd-download.html)
+    - [ドワンゴ ニコニコ立体ちゃん](http://3d.nicovideo.jp/alicia/)
 - [MSDN 春到来! 新年度は無料のオンラインラーニングサイトでスキルアップ](http://blogs.msdn.com/b/devamm/archive/2015/03/23/10602005.aspx)
-- [ZENRIN 秋葉原、大阪の3D年モデル](http://www.zenrin.co.jp/product/service/3d/asset/)
 - [Unityでブロック崩しを作るチュートリアル](http://am1tanaka.hatenablog.com/entry/2015/01/12/223830)
+
