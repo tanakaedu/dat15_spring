@@ -4,9 +4,12 @@
 # 講義ページ
 - [講義wiki](https://github.com/tanakaedu/dat15_spring/wiki)
 - [Visual C# 教科書](https://github.com/tanakaedu/cs-edu)
+- [Unityのネットワーク](http://am1tanaka.hatenablog.com/entry/2015/07/10/092140)
 
 
 # 動向
+- [就活生・若手開発者向け開発コンテスト『ゲームクリエイター就職大作戦2015』 -Unity](http://japan.unity3d.com/blog/press/20150619)
+- [プログラミングに特化したQ&Aサイト -teratail](https://teratail.com/)
 - [任天堂とDeNAが資本提携](http://www.itmedia.co.jp/news/articles/1503/17/news099.html)
 - [財経新聞 gumi、事業転換で希望退職者100人募る](http://news.nifty.com/cs/economy/economyalldetail/zaikei-20150328-242724/1.htm)
 - [4Gamer.net バンダイナムコゲームスが「パックマン」「ゼビウス」など17タイトルのキャラクターを国内クリエイターに開放](http://www.4gamer.net/games/999/G999905/20150331011/?utm_content=buffer851e4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
